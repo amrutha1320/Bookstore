@@ -1,3 +1,18 @@
+#create book
+![image](https://github.com/amrutha1320/Bookstore/assets/134827744/14bbdee0-2650-4bd2-8db3-2f6d259e0486)
+
+#books list 
+![image](https://github.com/amrutha1320/Bookstore/assets/134827744/f55cf1b5-ab2b-47b5-b62b-e27eecdc9346)
+
+#card 
+![image](https://github.com/amrutha1320/Bookstore/assets/134827744/fc15d4d2-39cc-4aae-ad17-32e0eb644149)
+
+#show book
+![image](https://github.com/amrutha1320/Bookstore/assets/134827744/d01928e8-254b-4823-9335-d3e071bfac68)
+
+#edit book
+![image](https://github.com/amrutha1320/Bookstore/assets/134827744/bd24aaba-fb2d-4eca-a36a-ec680d9b60c8)
+
 # Book Store MERN stack project
 
 ## Lessons
